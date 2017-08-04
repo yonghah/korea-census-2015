@@ -1,3 +1,9 @@
+sgis-data
+processed-data/tract_all.geojson
+processed-data/partial
+processed-data/*.h5
+__MACOSX
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

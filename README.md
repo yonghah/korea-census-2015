@@ -6,9 +6,9 @@ See the notebooks:
 https://github.com/yonghah/korea-census-2015/tree/master/notebook
 
 This process uses:
-[Geopandas](http://geopandas.org/)
-[dot-density](https://github.com/yonghah/dot-density)
-[DataShader](https://github.com/bokeh/datashader)
+* [Geopandas](http://geopandas.org/)
+* [dot-density](https://github.com/yonghah/dot-density)
+* [DataShader](https://github.com/bokeh/datashader)
 
 ## Output
 
